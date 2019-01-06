@@ -1,8 +1,8 @@
 [
 {
-  "modid": "betterteleportation",
-  "name": "Better Teleportaion",
-  "description": "A mod which adds teleportation to Minecraft",
+  "modid": "advancedteleportation",
+  "name": "Advanced Teleportation",
+  "description": "A mod which adds more advanced types of teleportation to Minecraft",
   "version": "0.1",
   "mcversion": "1.7.10",
   "url": "",
